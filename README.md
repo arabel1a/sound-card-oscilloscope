@@ -5,11 +5,11 @@
 
 ### Turn Your Sound Card Into an Oscilloscope!
 
-To be clear, this won’t work well due to the low-pass filter commonly applied to sound cards. The waveform shown in the image below is actually a 38kHz carrier frequency, but the filter smoothed it into a constant "one." Even with a 192kHz sampling rate, it still makes for a very poor oscilloscope.
+To be clear, this won’t work well due to the low-pass filter commonly applied to sound cards. The waveform shown in the image below actually has a 38kHz carrier frequency, but the filter smoothed it into a constant "one." Even with a 192kHz sampling rate, it still makes for a very poor oscilloscope.
 
 ![](Figure_1.png)
 
-This image was produces by capturing IR remote control LED. I just removed the LED from the device, and soldered the old guitar cable instead. The guitar cable goes to the TRS input of the sound card.
+To capture this signal, I cut the old guitar cable in half and connected it on one side with the TRS input of the sound card, and another - with the signal source.
 
 
 ### Be Careful with Input Voltage
