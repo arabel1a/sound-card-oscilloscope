@@ -14,4 +14,4 @@ This image was produces by capturing IR remote control LED. I just removed the L
 
 ### Be Careful with Input Voltage
 
-My sound card supports line-level input (~1.3V) or instrument-level input (even lower). With the gain adjustment, it's possible to capture signals up to 3V, though I haven’t tested higher voltages. Regardless, I’m confident that trying to use this "oscilloscope" with 220V will result in your device exploding. Always measure the voltage level before connecting anything to your sound card.
+My sound card supports line-level input (~1.3V) or instrument-level input (even lower). With the gain adjustment, it's possible to capture signals up to 10V, though I haven’t tested higher voltages. Regardless, I’m confident that trying to use this "oscilloscope" with 220V AC will result in your device exploding. Always measure the voltage level before connecting anything to your sound card.
