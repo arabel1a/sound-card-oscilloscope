@@ -9,9 +9,9 @@ To be clear, this won’t work well due to the low-pass filter commonly applied 
 
 ![](Figure_1.png)
 
-This image was produces by capturing IR remote control LED. I just removed the LED from the device, and soldered old huitar cable instead. Guitar cable goes to TRS input of soundcard.
+This image was produces by capturing IR remote control LED. I just removed the LED from the device, and soldered the old guitar cable instead. The guitar cable goes to the TRS input of the sound card.
 
 
 ### Be Careful with Input Voltage
 
-My sound card supports line-level input (~1.3V) or instrument-level input (even lower). With gain adjustment, it's possible to capture signals up to 3V, though I haven’t tested higher voltages. Regardless, I’m confident that trying to use this "oscilloscope" with 220V will result in your device exploding. Always measure the voltage level before connecting anything to your sound card.
+My sound card supports line-level input (~1.3V) or instrument-level input (even lower). With the gain adjustment, it's possible to capture signals up to 3V, though I haven’t tested higher voltages. Regardless, I’m confident that trying to use this "oscilloscope" with 220V will result in your device exploding. Always measure the voltage level before connecting anything to your sound card.
